@@ -1,0 +1,6 @@
+{
+  "name": "Gita Daily",
+  "description": "Daily Bhagavad Gita teachings, Sanskrit shlokas, English and Hindi meanings, commentaries, daily notifications, search, and personal bookmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

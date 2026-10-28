@@ -1,0 +1,44 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sacred radiating light -->
+    <path
+        android:fillColor="#40FFE082"
+        android:pathData="M54,40 L42,22 L54,27 L66,22 Z" />
+    <path
+        android:strokeColor="#FFE082"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M54,19 L54,25 M40,24 L44,28 M68,24 L64,28 M33,33 L38,36 M75,33 L70,36" />
+    <!-- Divine flame of wisdom -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,27 C49,34 47,38 54,46 C61,38 59,34 54,27 Z" />
+    <path
+        android:fillColor="#FFF9C4"
+        android:pathData="M54,33 C51,37 50,39 54,44 C58,39 57,37 54,33 Z" />
+    <!-- Open Gita book left page -->
+    <path
+        android:fillColor="#FFFDE7"
+        android:pathData="M53,49 C44,45 35,44 26,45 L26,71 C35,70 44,71 53,75 Z" />
+    <!-- Open Gita book right page -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M55,49 C64,45 73,44 82,45 L82,71 C73,70 64,71 55,75 Z" />
+    <!-- Inner lines indicating scripture verses -->
+    <path
+        android:strokeColor="#FFB300"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M32,53 C38,52 44,53 48,55 M32,59 C38,58 44,59 48,61 M32,65 C38,64 44,65 48,67 M60,55 C64,53 70,52 76,53 M60,61 C64,59 70,58 76,59 M60,67 C64,65 70,64 76,65" />
+    <!-- Book spine divider -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M53,48 L55,48 L55,76 L53,76 Z" />
+    <!-- Lotus pedestal beneath -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M54,77 C46,77 38,75 32,72 C38,81 70,81 76,72 C70,75 62,77 54,77 Z" />
+</vector>
